@@ -17,7 +17,7 @@ An experienced and enthusiastic software developer, with strong Java, Linux and 
 ## Work Experience
 `March 2019-Present`
 **Senior Java Developer**, *i-nexus Strategy Execution Software*
-- \- Test bullet point
+- Test bullet point
 
 `March 2018-March 2019`
 **Java Developer**, *Personal Touch Financial Solutions*
