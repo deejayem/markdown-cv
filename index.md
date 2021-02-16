@@ -3,21 +3,11 @@ layout: cv
 title: David Morgan's CV
 ---
 # David Morgan
-Experienced and enthusiastic software developer.
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+An experienced and enthusiastic software developer, with strong Java, Linux and SQL skills. Loves working with data and writing clean code, and also able to do frontend work.
 
 
 ## Education
