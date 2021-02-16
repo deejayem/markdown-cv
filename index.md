@@ -12,19 +12,11 @@ An experienced and enthusiastic software developer, with strong Java, Linux and 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2010`
+**MSc, Computer Science and Applications**, *University of Warwick*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2003-2007`
+**BA, Computer Science**, *University of Oxford*
 
 
 ## Awards
