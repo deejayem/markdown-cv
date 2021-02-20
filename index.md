@@ -20,7 +20,7 @@ An experienced and enthusiastic software developer, with strong Java, Linux and 
 - Test bullet point
 
 `March 2018-March 2019`
-**Java Developer**, *Personal Touch Financial Solutions*
+**Java Developer**, *Personal Touch Financial Services*
 
 `December 2010-March 2018`
 **Software Developer**, *Dion Global Solutions (UK)*
