@@ -17,6 +17,7 @@ An experienced and enthusiastic software developer, with strong Java, Linux and 
 ## Work Experience
 `March 2019-Present`
 **Senior Java Developer**, *i-nexus Strategy Execution Software*
+
 Modernising and expanding the company's web-based platform, using a test-driven approach where possible, including:
 - Migrating existing functionality from a monolith into a microservice, with a graph database (ArangoDB) for storage, and using asynchronous messaging, to improve performance and reduce code complexity
 - Developing a greenfield application to provide customer executives with an overview of corporate data, using React, Spring Boot, GraphQL, Java/Kotlin and MySQL
@@ -28,6 +29,7 @@ Modernising and expanding the company's web-based platform, using a test-driven 
 
 `March 2018-March 2019`
 **Java Developer**, *Personal Touch Financial Services*
+
 - Fixing bugs and adding features to an existing Java and MySQL web application
 - Developing a stand-alone import tool, as part of a major data migration project, that was able to validate and import large quantities of data in a short space of time
 - Advocating for and implementing process improvements, such as
@@ -37,6 +39,7 @@ Modernising and expanding the company's web-based platform, using a test-driven 
 
 `December 2010-March 2018`
 **Software Developer**, *Dion Global Solutions (UK)*
+
 - Working on a variety of software projects (primarily in Java, as well as PL/SQL and Python) as part of an agile team, including:
     - Applications to integrate other systems together (e.g. receiving real time updates, importing and exporting data in a variety of formats)
     - Systems performing complex business calculations
@@ -48,6 +51,7 @@ Modernising and expanding the company's web-based platform, using a test-driven 
 
 `June 2009-September 2009`
 **Administrative Assistant/Secretary**, *Holy Trinity Church Heath Town, Wolverhampton*
+
 Performing various administrative tasks to assist with the day-to-day running of the church.
 
 `August 2007-August 2008`
@@ -58,8 +62,10 @@ Performing various administrative tasks to assist with the day-to-day running of
 - Developing system administration and performance monitoring scripts in Perl
 - Managing builds/releases to development environments, and enhancing build scripts
 
-`July 2003-August 2007, September 2008-September 2009`
+`July 2003-August 2007`
+`September 2008-September 2009`
 **Book Keeper**, *John Morgan Conveyors Ltd*
+
 Carrying out duties including typing, managing sales and purchases ledgers, reconciliation at month-end and payroll administration.
 
 ## Open Source
