@@ -87,19 +87,19 @@ Testing and bug fixing for Gentoo Linux's x86 port, as well as writing documenta
 Working on a quality assurance/testing tool for Gentoo Linux, written in C++.
 
 ## Skills
-*Programming Languages*
+**Programming Languages**
 
 Java, Kotlin, Clojure, Python, Perl
 
-*Web Development*
+**Web Development**
 
 HTML, CSS, JavaScript, TypesSript, React
 
-*Databases*
+**Databases**
 
 Relational databases (Oracle, MySQL), graph databases (ArangoDB)
 
-*Other*
+**Other**
 
 Test-Driven Development, Git, Linux/Unix, Docker, DevOps
 
