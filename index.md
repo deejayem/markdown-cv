@@ -56,6 +56,7 @@ Performing various administrative tasks to assist with the day-to-day running of
 
 `August 2007-August 2008`
 **Junior Software Developer**, *Practical Law Company*
+
 - Working on an existing web application in Java (along with PL/SQL and XSLT), primarily in the areas of caching, performance, localisation, authorisation and authentication
 - Creation of a fault-tolerant message broker
 - Creation of a performance testing framework using Python
@@ -70,10 +71,39 @@ Performing various administrative tasks to assist with the day-to-day running of
 Carrying out duties including typing, managing sales and purchases ledgers, reconciliation at month-end and payroll administration.
 
 ## Open Source
+`2012-2013`
+**VirtualBox Team Member**, *FreeBSD*
+
+Fixing compilation failures and bugs, caused by new versions of VirtualBox or FreeBSD.
+
+`2006-2007`
+**x86 Arch Tester**, *Gentoo Linux*
+
+Testing and bug fixing for Gentoo Linux's x86 port, as well as writing documentation.
+
+`2006`
+**Google Summer of Code Student**, *"Qualudis - a QA tool for Paludis" (Gentoo Linux)*
+
+Working on a quality assurance/testing tool for Gentoo Linux, written in C++.
 
 ## Skills
+*Programming Languages*
 
+Java, Kotlin, Clojure, Python, Perl
+
+*Web Development*
+
+HTML, CSS, JavaScript, TypesSript, React
+
+*Databases*
+
+Relational databases (Oracle, MySQL), graph databases (ArangoDB)
+
+*Other*
+
+Test-Driven Development, Git, Linux/Unix, Docker, DevOps
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
