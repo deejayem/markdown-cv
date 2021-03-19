@@ -44,7 +44,7 @@ Modernising and expanding the company's web-based platform, using a test-driven 
     - Applications to integrate other systems together (e.g. receiving real time updates, importing and exporting data in a variety of formats)
     - Systems performing complex business calculations
     - A web-based system
-    - A client-server desktop application, using CQRS and REST APIs
+    - A client-server desktop application, using CQRS, event sourcing and REST APIs
 - Designing and implementing new components, doing third line support and bug fixing
 - Optimising systems that were not meeting customer expectations, resulting in performance improvements of 10-50%
 - Learning to work with many popular frameworks and libraries (e.g. Spring and Hibernate), as well as many development practices (e.g. continuous integration)
